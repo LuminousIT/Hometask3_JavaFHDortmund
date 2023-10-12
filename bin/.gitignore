@@ -1,6 +1,15 @@
+/BEV.class
 /Car.class
-/CarController.class
+/CombustionEngine.class
+/ElectricEngine.class
+/Engine.class
+/HybridEngine.class
+/HybridV.class
+/ICEV.class
+/Main.class
+/Manufacture.class
 /TaskA.class
 /TaskB.class
 /TaskC.class
+/Vehicle.class
 /readme.md
